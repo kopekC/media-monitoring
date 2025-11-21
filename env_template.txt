@@ -1,0 +1,12 @@
+# Copy this file to .env and fill in your values
+
+# Apify API Token
+# Get your API token from: https://console.apify.com/account/integrations
+APIFY_API_TOKEN=your_apify_api_token_here
+
+# Optional: Maximum results per keyword (default: 100)
+MAX_RESULTS_PER_KEYWORD=100
+
+# Optional: Results per run (adjust based on your Apify plan)
+RESULTS_LIMIT=1000
+
