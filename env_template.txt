@@ -10,3 +10,6 @@ MAX_RESULTS_PER_KEYWORD=100
 # Optional: Results per run (adjust based on your Apify plan)
 RESULTS_LIMIT=1000
 
+# Optional: Maximum posts per Facebook page (default: 100)
+MAX_POSTS_PER_PAGE=100
+
